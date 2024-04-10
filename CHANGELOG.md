@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.5.0
+
+### Minor Changes
+
+- [`dec3baf`](https://github.com/changesets/action/commit/dec3baf00a2313782c864287697584e0eb578676) Thanks [@dohaicuong](https://github.com/dohaicuong)! - enable support for other private registry
+
 ## 1.4.7
 
 ### Patch Changes
